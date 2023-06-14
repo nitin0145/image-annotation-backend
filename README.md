@@ -6,7 +6,7 @@
 <hr><p>Following are the requirements to run backend:
 Install python 3.11.4
 Install mongoDb into system for setup database locally</p><h5>Steps</h5><ul>
-<li>After cloning the back-end repo go to terminal and type command 'python -m venv venv' for create virtual environment.</li>
+<li>After cloning the back-end repo go to git base terminal and type command 'python -m venv venv' for create virtual environment.</li>
 </ul><ul>
 <li>Go to venv folder and Run command 'source Scripts/activate' for active environment in project</li>
 </ul><ul>
